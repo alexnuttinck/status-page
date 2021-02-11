@@ -1,22 +1,22 @@
 [
   {
     "name": "Alexandre Nuttinck website",
-    "url": "https://www.alexnuttinck.dev",
-    "icon": "https://favicons.githubusercontent.com/www.alexnuttinck.dev",
+    "url": "https://alexnuttinck.dev",
+    "icon": "https://favicons.githubusercontent.com/alexnuttinck.dev",
     "slug": "alexandre-nuttinck-website",
-    "status": "down",
-    "uptime": "10.66%",
-    "uptimeDay": "10.66%",
-    "uptimeWeek": "10.66%",
-    "uptimeMonth": "10.66%",
-    "uptimeYear": "10.66%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.30%",
+    "uptimeDay": "4.30%",
+    "uptimeWeek": "4.30%",
+    "uptimeMonth": "4.30%",
+    "uptimeYear": "4.30%",
+    "time": 287,
+    "timeDay": 287,
+    "timeWeek": 287,
+    "timeMonth": 287,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2021-02-11": 0
+      "2021-02-11": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 711,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "time": 707,
+    "timeDay": 707,
+    "timeWeek": 707,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   }
 ]
