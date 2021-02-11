@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Alexandre Nuttinck website
-    url: https://www.alexnuttinck.dev
+    url: https://alexnuttinck.dev
   - name: Le Pressoir
     url: https://www.lepressoir.be/
 
