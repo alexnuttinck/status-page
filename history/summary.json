@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/alexnuttinck.dev",
     "slug": "alexandre-nuttinck-website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 249,
-    "timeDay": 250,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 261,
+    "timeDay": 344,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2021-02-11": 2
     }
@@ -24,17 +24,19 @@
     "url": "https://www.lepressoir.be/",
     "icon": "https://favicons.githubusercontent.com/www.lepressoir.be",
     "slug": "le-pressoir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 694,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 701,
+    "timeDay": 691,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 701,
+    "dailyMinutesDown": {
+      "2021-02-15": 0
+    }
   }
 ]
