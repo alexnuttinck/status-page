@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/www.lepressoir.be",
     "slug": "le-pressoir",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.16%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 701,
     "timeDay": 691,
     "timeWeek": 701,
     "timeMonth": 701,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-02-15": 0
+      "2021-02-16": 12,
+      "2021-02-15": 40
     }
   }
 ]
