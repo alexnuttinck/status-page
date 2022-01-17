@@ -8,6 +8,8 @@ sites:
     url: https://alexnuttinck.dev
   - name: Le Pressoir
     url: https://www.lepressoir.be/
+  - name: La fete des vignerons
+    url: https://lafetedesvignerons.be
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
