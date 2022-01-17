@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 292,
-    "timeDay": 236,
-    "timeWeek": 334,
-    "timeMonth": 294,
+    "timeDay": 220,
+    "timeWeek": 318,
+    "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2021-10-13": 64,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 772,
-    "timeDay": 673,
-    "timeWeek": 822,
-    "timeMonth": 797,
+    "timeDay": 654,
+    "timeWeek": 798,
+    "timeMonth": 792,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2021-10-03": 15,
@@ -44,5 +44,23 @@
       "2021-02-16": 153,
       "2021-02-15": 40
     }
+  },
+  {
+    "name": "La fete des vignerons",
+    "url": "https://lafetedesvignerons.be",
+    "icon": "https://favicons.githubusercontent.com/lafetedesvignerons.be",
+    "slug": "la-fete-des-vignerons",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
+    "dailyMinutesDown": {}
   }
 ]
