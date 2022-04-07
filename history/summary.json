@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 288,
-    "timeDay": 248,
-    "timeWeek": 228,
-    "timeMonth": 283,
-    "timeYear": 284,
+    "timeDay": 276,
+    "timeWeek": 242,
+    "timeMonth": 284,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2021-10-13": 64,
       "2021-06-08": 30
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 773,
-    "timeDay": 665,
-    "timeWeek": 654,
-    "timeMonth": 802,
-    "timeYear": 776,
+    "timeDay": 804,
+    "timeWeek": 672,
+    "timeMonth": 807,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2021-10-03": 15,
       "2021-05-28": 117,
@@ -48,18 +48,16 @@
     "icon": "https://favicons.githubusercontent.com/lafetedesvignerons.be",
     "slug": "la-fete-des-vignerons",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1014,
-    "timeDay": 945,
-    "timeWeek": 970,
-    "timeMonth": 1098,
-    "timeYear": 1014,
-    "dailyMinutesDown": {
-      "2022-04-06": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1017,
+    "timeDay": 1101,
+    "timeWeek": 1003,
+    "timeMonth": 1111,
+    "timeYear": 1017,
+    "dailyMinutesDown": {}
   }
 ]
