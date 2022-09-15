@@ -4,7 +4,7 @@
     "url": "https://alexnuttinck.dev",
     "icon": "https://favicons.githubusercontent.com/alexnuttinck.dev",
     "slug": "alexandre-nuttinck-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 475,
     "timeYear": 314,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2021-10-13": 64
     }
   },
