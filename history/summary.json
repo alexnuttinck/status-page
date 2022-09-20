@@ -49,9 +49,9 @@
     "url": "https://lafetedesvignerons.be",
     "icon": "https://favicons.githubusercontent.com/lafetedesvignerons.be",
     "slug": "la-fete-des-vignerons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,6 +60,8 @@
     "timeWeek": 1242,
     "timeMonth": 1227,
     "timeYear": 1161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   }
 ]
