@@ -2,7 +2,7 @@
   {
     "name": "Alexandre Nuttinck website",
     "url": "https://alexnuttinck.dev",
-    "icon": "https://favicons.githubusercontent.com/alexnuttinck.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/alexnuttinck.dev.ico",
     "slug": "alexandre-nuttinck-website",
     "status": "up",
     "uptime": "99.98%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 306,
-    "timeDay": 357,
-    "timeWeek": 274,
-    "timeMonth": 318,
+    "timeDay": 153,
+    "timeWeek": 266,
+    "timeMonth": 312,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2022-09-15": 47,
@@ -23,7 +23,7 @@
   {
     "name": "Le Pressoir",
     "url": "https://www.lepressoir.be/",
-    "icon": "https://favicons.githubusercontent.com/www.lepressoir.be",
+    "icon": "https://icons.duckduckgo.com/ip3/www.lepressoir.be.ico",
     "slug": "le-pressoir",
     "status": "up",
     "uptime": "99.93%",
@@ -32,23 +32,22 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 800,
-    "timeDay": 1168,
-    "timeWeek": 782,
-    "timeMonth": 834,
-    "timeYear": 809,
+    "timeDay": 668,
+    "timeWeek": 787,
+    "timeMonth": 821,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2022-09-30": 126,
       "2022-08-13": 19,
       "2022-04-26": 17,
       "2022-04-20": 33,
-      "2022-04-19": 20,
-      "2021-10-03": 15
+      "2022-04-19": 20
     }
   },
   {
     "name": "La fete des vignerons",
     "url": "https://lafetedesvignerons.be",
-    "icon": "https://favicons.githubusercontent.com/lafetedesvignerons.be",
+    "icon": "https://icons.duckduckgo.com/ip3/lafetedesvignerons.be.ico",
     "slug": "la-fete-des-vignerons",
     "status": "up",
     "uptime": "100.00%",
@@ -57,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1164,
-    "timeDay": 1598,
-    "timeWeek": 1236,
-    "timeMonth": 1255,
+    "timeDay": 1051,
+    "timeWeek": 1233,
+    "timeMonth": 1245,
     "timeYear": 1164,
     "dailyMinutesDown": {}
   }
