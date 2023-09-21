@@ -1,7 +1,7 @@
 url: https://www.lepressoir.be/
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2023-09-20T23:03:41.856Z
+status: down
+code: 502
+responseTime: 1992
+lastUpdated: 2023-09-21T22:35:56.930Z
 startTime: 2021-02-11T15:45:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
