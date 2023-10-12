@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 240,
-    "timeWeek": 254,
-    "timeMonth": 312,
-    "timeYear": 298,
+    "timeDay": 207,
+    "timeWeek": 246,
+    "timeMonth": 313,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2023-06-28": 18
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1051,
-    "timeDay": 679,
-    "timeWeek": 874,
-    "timeMonth": 872,
-    "timeYear": 1114,
+    "timeDay": 629,
+    "timeWeek": 868,
+    "timeMonth": 871,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-02-01": 37,
       "2023-01-25": 49,
@@ -49,17 +49,15 @@
     "slug": "la-fete-des-vignerons",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1239,
-    "timeDay": 1074,
-    "timeWeek": 1180,
-    "timeMonth": 1286,
-    "timeYear": 1222,
-    "dailyMinutesDown": {
-      "2023-10-11": 15
-    }
+    "timeDay": 996,
+    "timeWeek": 1159,
+    "timeMonth": 1285,
+    "timeYear": 1220,
+    "dailyMinutesDown": {}
   }
 ]
