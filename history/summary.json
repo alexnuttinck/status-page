@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 217,
+    "time": 295,
+    "timeDay": 168,
     "timeWeek": 271,
-    "timeMonth": 283,
+    "timeMonth": 279,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2023-06-28": 18
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1069,
-    "timeDay": 627,
-    "timeWeek": 872,
-    "timeMonth": 873,
+    "time": 1068,
+    "timeDay": 656,
+    "timeWeek": 841,
+    "timeMonth": 870,
     "timeYear": 942,
-    "dailyMinutesDown": {
-      "2023-02-01": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "La fete des vignerons",
@@ -51,9 +49,9 @@
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.16%",
     "time": 1260,
-    "timeDay": 772,
-    "timeWeek": 1334,
-    "timeMonth": 1286,
+    "timeDay": 1060,
+    "timeWeek": 1335,
+    "timeMonth": 1289,
     "timeYear": 1268,
     "dailyMinutesDown": {
       "2024-01-29": 38,
