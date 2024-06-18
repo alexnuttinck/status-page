@@ -24,19 +24,19 @@
     "url": "https://www.lepressoir.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lepressoir.be.ico",
     "slug": "le-pressoir",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 911,
-    "timeDay": 663,
-    "timeWeek": 801,
-    "timeMonth": 812,
+    "timeDay": 638,
+    "timeWeek": 778,
+    "timeMonth": 806,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 5
     }
   },
   {
