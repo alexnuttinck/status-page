@@ -24,18 +24,16 @@
     "slug": "le-pressoir",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 871,
     "timeDay": 736,
     "timeWeek": 906,
     "timeMonth": 850,
     "timeYear": 866,
-    "dailyMinutesDown": {
-      "2024-10-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "La fete des vignerons",
