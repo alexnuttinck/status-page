@@ -1,7 +1,7 @@
 url: https://lafetedesvignerons.be
-status: up
-code: 200
-responseTime: 1322
-lastUpdated: 2025-08-11T23:04:48.626Z
+status: down
+code: 500
+responseTime: 968
+lastUpdated: 2025-08-12T18:00:30.698Z
 startTime: 2022-01-17T16:06:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
