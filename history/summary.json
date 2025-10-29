@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 441,
-    "timeWeek": 458,
-    "timeMonth": 356,
+    "timeDay": 469,
+    "timeWeek": 473,
+    "timeMonth": 358,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "le-pressoir",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 912,
-    "timeDay": 1183,
-    "timeWeek": 982,
-    "timeMonth": 818,
+    "timeDay": 1253,
+    "timeWeek": 1022,
+    "timeMonth": 826,
     "timeYear": 922,
-    "dailyMinutesDown": {
-      "2025-10-28": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "La fete des vignerons",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1180,
-    "timeDay": 1306,
-    "timeWeek": 1229,
-    "timeMonth": 1105,
+    "time": 1181,
+    "timeDay": 1600,
+    "timeWeek": 1301,
+    "timeMonth": 1119,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2025-10-07": 20,
