@@ -22,18 +22,20 @@
     "url": "https://www.lepressoir.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lepressoir.be.ico",
     "slug": "le-pressoir",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
+    "time": 974,
     "timeDay": 599,
     "timeWeek": 1009,
     "timeMonth": 1678,
     "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-03": 0
+    }
   },
   {
     "name": "La fete des vignerons",
