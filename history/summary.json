@@ -44,9 +44,9 @@
     "url": "https://lafetedesvignerons.be",
     "icon": "https://icons.duckduckgo.com/ip3/lafetedesvignerons.be.ico",
     "slug": "la-fete-des-vignerons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
@@ -76,7 +76,8 @@
       "2026-04-09": 59,
       "2026-04-10": 38,
       "2026-04-11": 56,
-      "2026-04-12": 19
+      "2026-04-12": 19,
+      "2026-06-07": 0
     }
   }
 ]
