@@ -47,17 +47,17 @@
     "url": "https://lafetedesvignerons.be",
     "icon": "https://icons.duckduckgo.com/ip3/lafetedesvignerons.be.ico",
     "slug": "la-fete-des-vignerons",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
-    "time": 1177,
-    "timeDay": 1357,
-    "timeWeek": 1198,
-    "timeMonth": 1329,
-    "timeYear": 1188,
+    "time": 1176,
+    "timeDay": 825,
+    "timeWeek": 1085,
+    "timeMonth": 1296,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2025-12-05": 16,
       "2025-12-22": 16,
@@ -79,7 +79,8 @@
       "2026-04-10": 38,
       "2026-04-11": 56,
       "2026-04-12": 19,
-      "2026-06-07": 27
+      "2026-06-07": 27,
+      "2026-11-03": 0
     }
   }
 ]
